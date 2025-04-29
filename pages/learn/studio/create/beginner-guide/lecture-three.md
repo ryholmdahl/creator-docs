@@ -149,4 +149,6 @@ Play around with the layout and find what works best for you. You can always res
 
 ## Conclusion
 
-In this lecture, we covered the basics of Unity and how to create a new project in Highrise Studio. We also discussed the different panels and windows in Unity and their functions. In the next lecture, we will cover the basics of Highrise Studio and how to use it to create your first game.
+In this lecture, we covered the basics of Unity and how to create a new project in Highrise Studio. We also discussed the different panels and windows in Unity and their functions. In the next lecture, we will cover the basics of Highrise Studio and how to use it to create your first game.cture, we will guide you through the process of creating a new project and exploring the Studio Hub interface.
+
+- [Lecture Four: Basic Concepts](https://create.highrise.game/learn/studio/create/beginner-guide/lecture-four/lecture-overview)
